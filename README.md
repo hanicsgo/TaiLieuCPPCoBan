@@ -2,7 +2,7 @@
 Tài liệu được soạn bởi Hai Tran, chắc chắn sẽ có nhiều phần chưa đúng hoặc thiếu mong bạn và các quý độc giả thông cảm và đón nhận.
 
 # Chương 1: LÀM QUEN VỚI NGÔN NGỮ LẬP TRÌNH.
-  - Làm quen với code và những được đi siêu cơ bản.
+  - Làm quen với code và những đường đi siêu cơ bản.
 
 # Chương 2: MỆNH ĐỀ IF-ELSE, SWITCH CASE VÀ ỨNG DỤNG.
   - Tìm hiểu về if - else.
