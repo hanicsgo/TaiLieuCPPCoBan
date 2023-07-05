@@ -16,7 +16,7 @@ Tài liệu được soạn bởi Hai Tran, chắc chắn sẽ có nhiều phầ
   - Tìm hiểu về vòng lặp for.
   - Tìm hiểu về vòng lặp while.
   - Tìm hiểu về vòng lặp do-while.
-  - Tìm hiểu về Big Notation ( Big o()).
+  - Tìm hiểu về Big Notation ( Big o() ).
   - Sự khác nhau giữa vòng lặp while và do-while.
   - Ứng dụng về cú pháp lệnh.
 
