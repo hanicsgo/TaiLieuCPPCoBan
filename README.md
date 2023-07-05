@@ -9,12 +9,14 @@ Tài liệu được soạn bởi Hai Tran, chắc chắn sẽ có nhiều phầ
   - Tìm hiểu về if - else if - else
   - Tìm hiểu về if - else.
   - Tìm hiểu về switch case.
+  - Tìm hiểu về toán tử 3 ngôi.
   - Ứng dụng về cú pháp lệnh.
 
 # Chương 3: VÒNG LẶP FOR, WHILE, DO WHILE.
   - Tìm hiểu về vòng lặp for.
   - Tìm hiểu về vòng lặp while.
   - Tìm hiểu về vòng lặp do-while.
+  - Tìm hiểu về Big Notation ( Big o()).
   - Sự khác nhau giữa vòng lặp while và do-while.
   - Ứng dụng về cú pháp lệnh.
 
@@ -30,7 +32,7 @@ Tài liệu được soạn bởi Hai Tran, chắc chắn sẽ có nhiều phầ
   - Tìm hiểu về mảng đa chiều.
   - Ứng dụng về cú pháp lệnh.
 
-# Chương 6: Xâu ký tử và xử lý xâu ( String ).
+# Chương 6: Xâu ký tự và xử lý xâu ( String ).
 
 # Chương 7: Hàm ( Function ).
 
