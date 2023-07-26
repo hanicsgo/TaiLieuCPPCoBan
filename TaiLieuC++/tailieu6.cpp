@@ -46,10 +46,6 @@
         string str = "Hello";
         str.insert(5, " World!");  // str = "Hello World!"
 
-    - Hàm insert(): Chèn một xâu ký tự hoặc một phần của xâu vào vị trí xác định trong xâu hiện tại.
-        string str = "Hello";
-        str.insert(5, " World!");  // str = "Hello World!"
-
     - Hàm erase(): Xóa một phần của xâu ký tự từ vị trí bắt đầu cho đến vị trí kết thúc.
         string str = "Hello World!";
         str.erase(6, 6);  // str = "Hello!"
