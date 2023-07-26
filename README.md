@@ -16,7 +16,7 @@ Tài liệu được soạn bởi Hai Tran, chắc chắn sẽ có nhiều phầ
   - Tìm hiểu về vòng lặp for.
   - Tìm hiểu về vòng lặp while.
   - Tìm hiểu về vòng lặp do-while.
-  - Tìm hiểu về Big Notation ( Big o() ).
+  - Tìm hiểu về Big Notation ( Big o(n) ).
   - Sự khác nhau giữa vòng lặp while và do-while.
   - Ứng dụng về cú pháp lệnh.
 
@@ -33,10 +33,19 @@ Tài liệu được soạn bởi Hai Tran, chắc chắn sẽ có nhiều phầ
   - Ứng dụng về cú pháp lệnh.
 
 # Chương 6: Xâu ký tự và xử lý xâu ( String ).
+  - Tìm hiểu về String.
+  - Tìm hiểu về các hàm cơ bản hay sử dụng trong hàm String.
+  - Ý nghĩa về việc xâu kí tự và xử lí xâu.
+  - Ứng dụng về cú pháp lệnh.
 
 # Chương 7: Hàm ( Function ).
+  - Tìm hiểu về hàm.
+  - Tìm hiểu về các loại hàm phổ biển hay sử dụng.
+  - Định nghĩa và ứng dụng của hàm STL.
+  - Ứng dụng về cú pháp lệnh.
 
 # Chương 8: Con trỏ ( Pointer ) và cấu trúc Struct.
-
+  - Tìm hiểu về con trỏ, struct.
+  
 # Contact
 https://www.facebook.com/hanifancy/
