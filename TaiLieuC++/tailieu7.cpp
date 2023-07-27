@@ -143,4 +143,47 @@
     Nó giúp cho việc lập trình trở nên dễ dàng và tiết kiệm thời gian, đồng thời đảm bảo tính chuẩn và khả năng chuyển đổi giữa các hệ thống.
 */
 
+/*
+    Tham trị và tham chiếu
+
+    - Tham trị (pass by value):
+    + Khi bạn truyền một đối số vào một hàm theo cách tham trị, hàm sẽ tạo một bản sao của giá trị đó và làm việc với bản sao đó. 
+    Các thay đổi trong hàm không ảnh hưởng đến giá trị gốc của biến ở ngoài hàm.
+    VD:
+
+    void value(int x) {
+        x = 100;
+    }
+
+    int main() {
+        int number = 42;
+        value(number);
+        std::cout << number; // Kết quả: 42, giá trị gốc không thay đổi
+        return 0;
+    }
+
+    - Tham chiếu (pass by reference):
+    + Khi bạn truyền một đối số vào một hàm theo cách tham chiếu, hàm sẽ làm việc trực tiếp với biến gốc thông qua một tên tham chiếu, 
+    và các thay đổi trong hàm sẽ ảnh hưởng trực tiếp đến giá trị của biến gốc.
+    VD:
+
+
+    void value(int &x) {
+        x = 100;
+    }
+
+    int main() {
+        int number = 42;
+        value(number);
+        std::cout << number; // Kết quả: 100, giá trị gốc bị thay đổi
+        return 0;
+    }
+
+    - Lưu ý rằng khi sử dụng tham chiếu, bạn cần đảm bảo rằng biến truyền vào phải là một biến hợp lệ, tức là không phải là một biểu thức hoặc hằng số. 
+    Vì tham chiếu không thể liên kết với một giá trị không có địa chỉ trong bộ nhớ.
+
+    - Đôi khi, việc sử dụng tham trị hay tham chiếu phụ thuộc vào mục đích sử dụng và yêu cầu của chương trình. 
+    Khi bạn muốn chỉ thực hiện các thay đổi cục bộ trong hàm và giữ nguyên giá trị gốc ở ngoài hàm, thì tham trị là lựa chọn phù hợp. 
+    Trong khi đó, nếu bạn muốn thay đổi giá trị biến gốc từ trong hàm, thì tham chiếu sẽ là lựa chọn hữu ích.
+*/
 
