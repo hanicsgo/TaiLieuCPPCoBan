@@ -42,6 +42,7 @@ Tài liệu được soạn bởi Hai Tran, chắc chắn sẽ có nhiều phầ
   - Tìm hiểu về hàm.
   - Tìm hiểu về các loại hàm phổ biển hay sử dụng.
   - Định nghĩa và ứng dụng của hàm STL.
+  - Tìm hiểu về tham trị và tham chiếu
   - Ứng dụng về cú pháp lệnh.
 
 # Chương 8: Con trỏ ( Pointer ) và cấu trúc Struct.
