@@ -122,6 +122,7 @@ int main(){
     6.99996
 */
 
+/*
 #include <iostream>
 
 using namespace std;
@@ -134,6 +135,7 @@ int main(){
     cout << s << endl;
     cout << f << endl;
 }
+*/
 
 /*
     THUẬT TOÁN
