@@ -83,5 +83,5 @@ Tài liệu được soạn bởi Hai Tran, chắc chắn sẽ có nhiều phầ
 
 # 🌸Discord
 <p align="center">
-  <img src="https://discordapp.com/api/guilds/915174212547797043/widget.png?style=banner4" alt="Discord"/>
+  <a href="https://discord.gg/kbqJHkAM"><img src="https://discordapp.com/api/guilds/915174212547797043/widget.png?style=banner4" alt="Discord"/></a>
 </p>
