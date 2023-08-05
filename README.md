@@ -82,4 +82,6 @@ Tài liệu được soạn bởi Hai Tran, chắc chắn sẽ có nhiều phầ
 </p>
 
 # 🌸Discord
-<img src="https://discordapp.com/api/guilds/915174212547797043/widget.png?style=banner4" alt="Discord"/>
+<p align="center">
+  <img src="https://discordapp.com/api/guilds/915174212547797043/widget.png?style=banner4" alt="Discord"/>
+</p>
