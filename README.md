@@ -80,3 +80,6 @@ Tài liệu được soạn bởi Hai Tran, chắc chắn sẽ có nhiều phầ
     <img src="https://img.icons8.com/fluent/48/000000/steam.png"/>
   </a> 
 </p>
+
+# 🌸Discord
+<img src="https://discordapp.com/api/guilds/915174212547797043/widget.png?style=shield" alt="Discord"/>
