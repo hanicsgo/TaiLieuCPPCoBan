@@ -168,9 +168,9 @@
         int x = 5, y = 10, z = 15;
         double d1 = 3.5, d2 = 2.7;
 
-        std::cout << "Tong hai so nguyen: " << add(x, y) << std::endl;
-        std::cout << "Tong ba so nguyen: " << add(x, y, z) << std::endl;
-        std::cout << "Tong hai so thuc: " << add(d1, d2) << std::endl;
+        cout << "Tong hai so nguyen: " << add(x, y) << endl;
+        cout << "Tong ba so nguyen: " << add(x, y, z) << endl;
+        cout << "Tong hai so thuc: " << add(d1, d2) <<endl;
     }
 */
 
