@@ -144,6 +144,37 @@
 */
 
 /*
+    Nạp chồng hàm
+
+    - Định nghĩa: Nạp chồng hàm (function overloading) cho phép bạn định nghĩa nhiều hàm cùng tên nhưng với số lượng hoặc kiểu dữ liệu tham số khác nhau. 
+    Khi bạn gọi hàm, trình biên dịch sẽ xác định hàm cụ thể được gọi dựa trên số lượng và kiểu dữ liệu của tham số được truyền vào.
+
+    // Hàm tính tổng hai số nguyên
+    int add(int a, int b) {
+        return a + b;
+    }
+
+    // Hàm tính tổng ba số nguyên
+    int add(int a, int b, int c) {
+        return a + b + c;
+    }
+
+    // Hàm tính tổng hai số thực
+    double add(double a, double b) {
+        return a + b;
+    }
+
+    int main() {
+        int x = 5, y = 10, z = 15;
+        double d1 = 3.5, d2 = 2.7;
+
+        std::cout << "Tong hai so nguyen: " << add(x, y) << std::endl;
+        std::cout << "Tong ba so nguyen: " << add(x, y, z) << std::endl;
+        std::cout << "Tong hai so thuc: " << add(d1, d2) << std::endl;
+    }
+*/
+
+/*
     Tham trị và tham chiếu
 
     - Tham trị (pass by value):
@@ -186,4 +217,6 @@
     Khi bạn muốn chỉ thực hiện các thay đổi cục bộ trong hàm và giữ nguyên giá trị gốc ở ngoài hàm, thì tham trị là lựa chọn phù hợp. 
     Trong khi đó, nếu bạn muốn thay đổi giá trị biến gốc từ trong hàm, thì tham chiếu sẽ là lựa chọn hữu ích.
 */
+
+
 
