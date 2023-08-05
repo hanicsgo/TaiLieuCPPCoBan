@@ -42,11 +42,41 @@ Tài liệu được soạn bởi Hai Tran, chắc chắn sẽ có nhiều phầ
   - Tìm hiểu về hàm.
   - Tìm hiểu về các loại hàm phổ biển hay sử dụng.
   - Định nghĩa và ứng dụng của hàm STL.
+  - Tìm hiểu về nạp chồng hàm.
   - Tìm hiểu về tham trị và tham chiếu
   - Ứng dụng về cú pháp lệnh.
 
-# Chương 8: Con trỏ ( Pointer ) và cấu trúc Struct.
-  - Tìm hiểu về con trỏ, struct.
-  
-# Contact
-https://www.facebook.com/hanifancy/
+# Chương 8: Con trỏ ( Pointer ).
+  - Tìm hiểu về con trỏ.
+  - Ứng dụng của con trỏ.
+  - Ứng dụng của con trỏ trong mảng, hàm, cấp phát động...
+  - Tìm hiều về quán lý bộ nhớ trong con trỏ.
+  - Tìm hiều về Con trỏ lạc trong C++.
+  - Tìm hiểu về tham số con trỏ truyền giá trị.
+  - Ứng dụng về cú pháp lệnh.
+
+# Chương 9: Cấu trúc Struct.
+  - Tìm hiểu về cấu trúc struct.
+  - Tìm hiểu về toán tử dấu chấm và toán tử mũi tên ( Toán tử thành viên ).
+  - Sự khác nhau giữa toán tử dấu chấm với toán tử mũi tên nếu dùng function.
+  - Các bài tập về Struct.
+  - Lời cuối cùng của mình ( @Hai Tran )
+
+# 💗Contact Me
+<p align="center">
+  <a href="https://www.facebook.com/hanifancy" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://www.instagram.com/kophaihaitran" alt="Instagram">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+  </a>
+  <a href="https://www.behance.net/sogoodtobebad" alt="Behance">
+    <img src="https://img.icons8.com/fluent/48/000000/behance.png"/>
+  </a>
+    <a href="https://www.linkedin.com/in/hanifancy/" alt="Linkedin">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://steamcommunity.com/id/haniicsgo" alt="Steam">
+    <img src="https://img.icons8.com/fluent/48/000000/steam.png"/>
+  </a> 
+</p>
