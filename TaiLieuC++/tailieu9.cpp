@@ -216,7 +216,7 @@
             2. Các bạn thiên về thuật toán thì các bạn có thể chọn làm AI (Artificial intelligence), DE (Data Engineer) hoặc Database...
             3. Các bạn thiên về công nghệ hơn thì cũng có thể lựa chọn DS (Data Sciencetist) cũng là một lựa chọn không tồi...
 
-    - Sau cùng, mỗi một lựa chọn là một quyết định của đời người. Vì vậy, nếu còn là học sinh hay sinh viên, hãy chủ động tìm tòi, học hỏi cáng nhiều càng tốt.
+    - Sau cùng, mỗi một lựa chọn là một quyết định của đời người. Vì vậy, nếu còn là học sinh hay sinh viên, hãy chủ động tìm tòi, học hỏi càng nhiều càng tốt.
     Dĩ nhiên trên kia cũng chỉ là các options mình đề ra cho mọi người tham khảo.
 
     - Cuối cùng, mình xin cảm ơn các bạn vì đã ghé qua tài liệu của mình. Hi vọng tài liệu của mình giúp ích cho các bạn. ^.^
